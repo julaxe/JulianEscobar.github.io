@@ -7,49 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://julaxe.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://julaxe.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>database</title>
-      <link>https://julaxe.github.io/categories/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>DirectX</title>
+      <link>https://julaxe.github.io/categories/directx/</link>
+      <pubDate>Tue, 13 Apr 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://julaxe.github.io/categories/database/</guid>
+      <guid>https://julaxe.github.io/categories/directx/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>design</title>
-      <link>https://julaxe.github.io/categories/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Cpp</title>
+      <link>https://julaxe.github.io/categories/cpp/</link>
+      <pubDate>Sun, 21 Mar 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://julaxe.github.io/categories/design/</guid>
+      <guid>https://julaxe.github.io/categories/cpp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://julaxe.github.io/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>OpenGL</title>
+      <link>https://julaxe.github.io/categories/opengl/</link>
+      <pubDate>Sun, 21 Mar 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://julaxe.github.io/categories/development/</guid>
+      <guid>https://julaxe.github.io/categories/opengl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>logo</title>
-      <link>https://julaxe.github.io/categories/logo/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Unity</title>
+      <link>https://julaxe.github.io/categories/unity/</link>
+      <pubDate>Tue, 26 Jan 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://julaxe.github.io/categories/logo/</guid>
+      <guid>https://julaxe.github.io/categories/unity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sketch</title>
-      <link>https://julaxe.github.io/categories/sketch/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>Unreal</title>
+      <link>https://julaxe.github.io/categories/unreal/</link>
+      <pubDate>Sat, 12 Dec 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://julaxe.github.io/categories/sketch/</guid>
+      <guid>https://julaxe.github.io/categories/unreal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDL</title>
+      <link>https://julaxe.github.io/categories/sdl/</link>
+      <pubDate>Mon, 10 Aug 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://julaxe.github.io/categories/sdl/</guid>
       <description></description>
     </item>
     
