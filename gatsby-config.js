@@ -8,7 +8,7 @@ module.exports = {
       'Julian Escobar is a a mechatronic engineer, game programmer and ex-professional gamer specializing in making (and occasionally designing) exceptional gaming experiences.',
     siteUrl: 'https://julaxe.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@julaxe',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'JulianEscobar',
+        short_name: 'JulianEscobar',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
